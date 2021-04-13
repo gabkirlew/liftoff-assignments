@@ -1,0 +1,27 @@
+Project Outline
+
+Overview
+My project will serve as a Platform for Book Enthusiasts.
+Users will be able to login, write reviews for books, give it a score out of 5,
+and have the ability to like or dislike reviews from other users.
+Users will be able to search books by category and author.
+
+
+Features
+•	User login: Users will be able to log in, either by creating accounts in the system. If time allows, implement Google (Gmail) authentication for Login
+•	Users will be able to write a review for a book (including a written portion and a score out of 5)
+•	View reviews from other members and like or dislike them
+•	See the NYTimes Best-selling Books
+
+
+Technologies
+•	Java
+•	Spring Boot
+•	MySQL
+•	Thymeleaf/React (still undecided)
+
+What I'll Have to Learn
+I don’t have any experience building a website that requires authentication so I’ll need to learn that.
+If time allows, I’ll need to learn how to do Google (gmail) authentication).
+
+I’ll need to learn how to work with the New York Times API to display the best-selling book List
